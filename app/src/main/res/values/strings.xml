@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Android Quiz</string>
+
+    <string name="Intro">Let\'s test your knowledge about Android! \n\nAnswer these quick questions
+        correctly  and grab the chance to win a prize! :)"</string>
+
+    <!--Question1 -->
+    <string name="question1">1. What is the extension of application developed for Android?</string>
+    <string name="q1_answer1">ipa</string>
+    <string name="q1_answer2">apk</string>
+    <string name="q1_answer3">jad</string>
+    <string name="q1_answer4">exe</string>
+
+    <!--Question2 -->
+    <string name="question2">2. What Android versions were brought up to mobile phones?</string>
+    <string name="q2_answer1">Eclair</string>
+    <string name="q2_answer2">Froyo</string>
+    <string name="q2_answer3">Gingerbread</string>
+    <string name="q2_answer4">Honeycomb</string>
+
+    <!--Question3 -->
+    <string name="question3">3. What are three the most popular Android versions?</string>
+    <string name="q3_answer1">Nougat</string>
+    <string name="q3_answer2">Marshmallow</string>
+    <string name="q3_answer3">Lollipop</string>
+    <string name="q3_answer4">KitKat</string>
+
+    <!--Question4 -->
+    <string name="question4">4. What version of Android is codenamed "Jelly Bean"?</string>
+    <string name="q4_answer1">4.1</string>
+    <string name="q4_answer2">4.2</string>
+    <string name="q4_answer3">4.3</string>
+    <string name="q4_answer4">all of the above</string>
+
+    <!--Question5 -->
+    <string name="question5">5. Which of the following error occurs during the time of execution
+        program?</string>
+    <string name="q5_answer1">Compile error</string>
+    <string name="q5_answer2">Runtime error</string>
+
+    <!--Question6 -->
+    <string name="question6">6. Every Android app must have the AndroidManifest.xml file in its root directory
+</string>
+    <string name="q6_answer1">True</string>
+    <string name="q6_answer2">False</string>
+
+    <!--Question7 -->
+    <string name="question7">7. What is the adb command for setting battery level?</string>
+    <string name="q7_correctAnswer">adb shell dumpsys battery set level</string>
+    <string name="editTextHint">adb … … … … level</string>
+
+    <!--Buttons -->
+    <string name="start_overBtn">Start Over</string>
+    <string name="submitBtn">Submit</string>
+
+    <!--Quiz Results -->
+    <string name="toast1">Here are your results:</string>
+    <string name="toast2">\nYou answered</string>
+    <string name="toast3">questions correctly</string>
+    <string name="toast3ifcorrectAnswersIsOne">question correctly</string>
+    <string name="oopsToast1">Oops…</string>
+    <string name="oopsToast2">\nYou didn\'t answer a single question correctly… Try again!</string>
+    <string name="wowToast1">Wow!</string>
+    <string name="wowToast2">\nYou answered all 7 questions correctly, congratulations!</string>
+
+
+</resources>
